@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1521292964 source:c:\users\clement pera\google drive\pc --_ drive\c++\mystery word\main.cpp
+	<iostream>
+	<string>
+	<ctime>
+	<cstdlib>
+	"Mystery.h"
+
+1521283813 c:\users\clement pera\google drive\pc --_ drive\c++\mystery word\mystery.h
+	<string>
+
+1521299750 source:c:\users\clement pera\google drive\pc --_ drive\c++\mystery word\melangermot.cpp
+	<iostream>
+	<string>
+	<ctime>
+	<cstdlib>
+	"Mystery.h"
+
