@@ -16,15 +16,12 @@ string melangerMot(string word)
     {
         string MystereTemp(word);
 
-
         int position = rand() % MystereTemp.size();
-
-        cout << "position : "<< position << endl;
-
+        //cout << "position : "<< position << endl;
         char wordTemp(MystereTemp[position]);
 
 
-        cout << "wordTemp : " << wordTemp << endl; // afficher les lettre 1 par 1
+        //cout << "wordTemp : " << wordTemp << endl; // afficher les lettre 1 par 1
 
         finMystere = finMystere + wordTemp;
 
